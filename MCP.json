@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "codex": {
+      "command": "codex-mcp-server",
+      "args": [],
+      "env": {}
+    }
+  }
+}
